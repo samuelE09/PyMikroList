@@ -48,7 +48,7 @@ def banner_program():
     "  [+] Description: Script to list Move IP addresses between Address List",
     "  [+] Version: 0.1.0",
     "  [+] Author: Samuel E. Berru",
-    #"  [+] Github: https://github.com/samuelE09/PyMikrolist",
+    "  [+] Github: https://github.com/samuelE09/PyMikrolist",
   ]
 
   # Variables
