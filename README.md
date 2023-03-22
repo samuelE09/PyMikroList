@@ -27,9 +27,11 @@ Previamente debes tener instalado ```Python``` correctamente e instalar el paque
     cd PyMikroList
     ```
 
-* Crea y activa el Entorno Virtual
+* Dentro de la Carpeta, crea y activa el Entorno Virtual
 
     ```bash
+    python -m virtualvenv venv
+    
     Windows - recommendation to use git-bash terminal 
     .\venv\Scripts\activate
 
